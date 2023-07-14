@@ -15,7 +15,7 @@ Note: Due to Netflix.data being an extremely large data set and there being dead
 ## Comparing PCY to Apriori with Random Sample Data
 
 Retail.dat:
-<img src="https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/7adbb2a9-7508-4604-85dc-5abc679efb53" width=50>
+<img src="https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/7adbb2a9-7508-4604-85dc-5abc679efb53" width=500 height=250>
 ![image](https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/59235a0c-9d4d-4be5-b81b-c235f8266fb1)
 ![image](https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/914f81be-57cf-4e3e-95b0-619a2dd7801b)
 ![image](https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/84b67753-2e75-420d-a7a2-92be3c370bb7)
