@@ -15,10 +15,10 @@ Note: Due to Netflix.data being an extremely large data set and there being dead
 ## Comparing PCY to Apriori with Random Sample Data
 
 Retail.dat: <br />
-<img src="https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/7adbb2a9-7508-4604-85dc-5abc679efb53" width=1000 height=300>
-<img src="https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/59235a0c-9d4d-4be5-b81b-c235f8266fb1" width=1000 height=300>
-<img src="https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/914f81be-57cf-4e3e-95b0-619a2dd7801b" width=1000 height=300>
-<img src="https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/84b67753-2e75-420d-a7a2-92be3c370bb7" width=600 height=300>
+<img src="https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/7adbb2a9-7508-4604-85dc-5abc679efb53" width=1000 height=300 align="center">
+<img src="https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/59235a0c-9d4d-4be5-b81b-c235f8266fb1" width=1000 height=300 align="center">
+<img src="https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/914f81be-57cf-4e3e-95b0-619a2dd7801b" width=1000 height=300 align="center">
+<img src="https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/84b67753-2e75-420d-a7a2-92be3c370bb7" width=600 height=300 align="center">
 
 It can be seen in this graph that at 5% support, both algorithms have the same run time. At 2% support, you can see that they are relatively the same run time, except around the 0.6 chunk size region where PCY is actually slower and at 1% support you can see a clear difference that PCY took longer than Apriori.
 
