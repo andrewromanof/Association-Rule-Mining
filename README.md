@@ -1,5 +1,7 @@
 # Advanced Association Rule Mining Techniques for Large-Scale Datasets using Python
 
+Note: two data files were used in this, one is in the repository, the other file is too big, if you wish to download it please visit this link: https://drive.google.com/file/d/1EX_2Pkid6EC4H-4KN0kP_S_89GKaTnXo/view
+
 This school project presents a comprehensive comparative analysis of advanced association rule mining techniques on two diverse datasets. The implemented techniques include the Apriori algorithm, PCY algorithm, Random Sampling, SON (Savasere, Omiecinski, and Navathe) algorithm, and the multihash version of the PCY algorithm.
 
 The primary objective is to evaluate and compare the performance and effectiveness of these algorithms in uncovering meaningful associations and frequent itemsets within large-scale datasets. To achieve this, we conduct extensive experiments that involve varying dataset sizes, sample percentages (20%, 40%, 60%, 80%, and 100%), and support thresholds (1%, 2%, and 5%).
