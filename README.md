@@ -50,12 +50,12 @@ From the graph, you can clearly see that PCY is a lot more time efficient as it 
 
 ## Counting the amount of False Positives
 
-Retail.dat:
+Retail.dat: <br />
 ![image](https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/ba9401ac-2531-4172-9a8c-68340ed2e242)
 
 Note: Due to time constraints, I did not count the amount false positives for Netflix.data.
 
 ## An example of Multi-hash version of PCY algorithm
 
-Retail.dat:
+Retail.dat: <br />
 ![image](https://github.com/andrewromanof/Association-Rule-Mining/assets/55285514/9c775d0d-da06-497b-a546-5985ae1bc432)
